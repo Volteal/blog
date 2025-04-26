@@ -20,7 +20,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-
 # Default to bash
 defaults:
   run:
@@ -78,12 +77,12 @@ jobs:
             --cacheDir "${{ runner.temp }}/hugo_cache"
 
     - name: Cache Save
-        id: cache-save
-        uses: actions/cache/save@v4
-        with:
-          path: |
-            ${{ runner.temp }}/hugo_cache
-          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+      id: cache-save
+      uses: actions/cache/save@v4
+      with:
+        path: |
+         ${{ runner.temp }}/hugo_cache
+        key: ${{ steps.cache-restore.outputs.cache-primary-key }}
 
     - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
