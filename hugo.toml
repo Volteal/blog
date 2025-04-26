@@ -58,5 +58,5 @@ pagination.pagerSize = 15
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "about"
-          name = "About Angela Ridder"
+          name = "About"
           url = "/about"

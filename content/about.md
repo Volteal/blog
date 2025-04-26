@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About Angela Ridder"
 date = "2025-04-26"
 author = "Angela Ridder"
 +++
