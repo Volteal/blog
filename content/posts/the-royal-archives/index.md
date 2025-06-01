@@ -10,7 +10,7 @@ description = "A post where I explain what my pet project \"The Royal Archives\"
 showFullContent = false
 readingTime = true
 hideComments = true
-draft = flase
+draft = false
 +++
 
 ## What is the Royal Archives?
