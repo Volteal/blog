@@ -1,6 +1,6 @@
 +++
 layout = "single"
-cover = "cover.jpg"
+cover = "cover.webp"
 description = ""
 showFullContent = false
 readingTime = true
