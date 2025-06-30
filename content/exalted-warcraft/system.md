@@ -15,8 +15,3 @@ draft = false
 ## Lore
 
 ## Systems
-
-[Character Creation]({{< ref "/exalted-warcraft/character-creation" >}})
-[Reference Sheet]({{< ref "/exalted-warcraft/references-sheet" >}})
-[Choosing Charms]({{< ref "/exalted-warcraft/choosing-charms" >}})
-[Example Character]({{< ref "/exalted-warcraft/example-character" >}})
