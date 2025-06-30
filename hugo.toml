@@ -21,15 +21,15 @@ pagination.pagerSize = 15
   autoCover = true
   showLastUpdated = true
   updatedDatePrefix = "Updated"
-  # readingTime = false
-  # Toc = false
-  # TocTitle = "Table of Contents"
+  readingTime = false
+  Toc = false
+  TocTitle = "Table of Contents"
   # dateFormat = "2006-01-02"
-  # dateFormat = "2006-01-02 3:04:06 PM MST"
+  dateFormat = "2006-01-02 3:04:06 PM MST"
 
 [params.twitter]
   creator = "VoltealCodeGoat"
-  site = "https://blog.angelaridder.com/"
+  site = "https://safehouse.angelaridder.com/"
 
 [languages]
   [languages.en]
