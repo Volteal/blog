@@ -1,4 +1,14 @@
-## Character Creation Outline
++++
+layout = "single"
+cover = "cover.jpg"
+description = ""
+showFullContent = false
+readingTime = true
+hideComments = true
+draft = false
++++
+
+# Character Creation Outline
 
 ### Step 1: Concept
 
@@ -16,17 +26,17 @@
 ### Step 4: Charms
 
 - Choose Ox Body or an Excellency.
-- Choose four other Charms. 
-	- Spells, Evocations, and Martial Arts Charms count as one Charm each.
+- Choose four other Charms.
+  - Spells, Evocations, and Martial Arts Charms count as one Charm each.
 
 ### Step 5: Merits
 
-- Select one primary,  one secondary, and two tertiary Merits.
+- Select one primary, one secondary, and two tertiary Merits.
 
 ### Step 6: Virtues & Intimacies
 
 - Choose a Major and a Minor Virtue.
-	- Choose from: Ambition, Compassion, Courage, Discipline, Justice, Loyalty, and Wonder
+  - Choose from: Ambition, Compassion, Courage, Discipline, Justice, Loyalty, and Wonder
 - Create one Major and two Minor Intimacies. You may start with more if you like.
 
 ### Step 7: Finishing Touches
@@ -35,7 +45,7 @@
 - **Health levels**: two 0, two −1s, two −2s, and Incapacitated, plus any from Ox Body.
 - **Parry** equals Attribute + Close Combat divided by two (round up)
 - **Evasion** equals Attribute + Athletics divided by two (round up)
-	- Use whichever is higher
+  - Use whichever is higher
 - **Soak** is 1, + 1 if your Physique is 3 or higher, then add any armor soak value.
 - Hardness is equal to Essence + 2, plus any from armor.
 - Resolve is 2, +1 if you have Integrity 1, +2 if you have Integrity 3 or higher.\
