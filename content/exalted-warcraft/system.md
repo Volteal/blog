@@ -8,6 +8,8 @@ hideComments = true
 draft = false
 +++
 
+![[cover.webp]]
+
 # System Overview
 
 ## Purpose
