@@ -48,5 +48,5 @@ draft = false
   - Use whichever is higher
 - **Soak** is 1, + 1 if your Physique is 3 or higher, then add any armor soak value.
 - Hardness is equal to Essence + 2, plus any from armor.
-- Resolve is 2, +1 if you have Integrity 1, +2 if you have Integrity 3 or higher.\
+- Resolve is 2, +1 if you have Integrity 1, +2 if you have Integrity 3 or higher.
 - Add any mundane equipment that fits your concept, any artifacts gained from Merits, and any benefits from hearthstones.
