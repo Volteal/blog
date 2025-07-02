@@ -1,6 +1,6 @@
 +++
 layout = "single"
-cover = "cover.jpg"
+cover = "ex-warcraft.jpg"
 description = ""
 showFullContent = false
 readingTime = true

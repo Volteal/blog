@@ -1,6 +1,6 @@
 +++
 layout = "single"
-cover = "cover.webp"
+cover = "ex-warcraft.jpg"
 description = ""
 showFullContent = false
 readingTime = true
