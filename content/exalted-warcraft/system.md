@@ -1,15 +1,12 @@
 +++
 layout = "single"
-cover = "cover.webp"
+cover = "cover.jpg"
 description = ""
 showFullContent = false
 readingTime = true
 hideComments = true
 draft = false
 +++
-
-![[cover.webp]]
-
 # System Overview
 
 ## Purpose
