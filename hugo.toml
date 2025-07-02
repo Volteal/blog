@@ -64,4 +64,4 @@ pagination.pagerSize = 15
         [[languages.en.menu.main]]
           identifier = "exalted-warcraft"
           name = "Exalted Warcraft"
-          url = "/exalted-warcraft/system"
+          url = "/exalted-warcraft"
